@@ -20,6 +20,20 @@ Here, I have created a Boilerplate which can be used for starting your React or 
 # GETTING STARTED
 Follow the below given steps to get started with the boilerplate.
 
-1. Clone this git repository to your local machine. If you are new to git then refer this [article](https://help.github.com/articles/cloning-a-repository/) to get your job done. 
+1. Clone this git repository to your local machine. If you are new to git then refer this [article](https://help.github.com/articles/cloning-a-repository/) to get your job done or you can also download the zip.
 
-If you can also download the zip of this git repository 
+2. Install the dependancies in your local directory.
+
+```
+yarn install
+```
+3. Now your boilerplate is ready, let's run the development server and check in the browser if every thing is working.
+
+```
+yarn run dev-server
+```
+
+4. Once development server is running, you can now visit this url `http://localhost:8080` in your browser.
+
+5. If you see a React & Node Boilerplate message, then congrats you have successfully installed the boilerplate on your local machine.
+
